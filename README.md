@@ -1,6 +1,6 @@
 # Bienvenido a la documentación de SISLAC
 
-The documentation is available in (español)[readme-es.md], ingles y portugues.
+The documentation is available in [español](/README.md), [ingles](/README-en.md) y [portugues](/README-pt.md).
 
 ## Contenido
 
