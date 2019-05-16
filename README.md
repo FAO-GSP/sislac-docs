@@ -11,7 +11,7 @@ The documentation is available in [español](/README.md), [ingles](/README-en.md
 
 ### Información de suelos
 
-* Carga de datos
+* [Carga de datos](/uploading-soildata-es.md)
 * Descarga
 
 ### Corriendo análisis de pedometría en SISLAC
