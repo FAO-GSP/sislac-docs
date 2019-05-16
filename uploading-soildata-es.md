@@ -6,7 +6,7 @@ Solo los usuarios autorizados pueden subir nuevos datos de suelos. Si quiere sub
 
 Para la carga de perfiles/muestreos de suelos debe preparar los datos en un tabla donde cada fila corresponde a un horizonte/capa y cada columna a un atributo. SISLAC provee una plantilla donde Ud. puede copiar sus datos. Al momento de la carga, además, deberá proveer información adicional relativa al conjunto de perfiles incluyendo:
 
-* País de origen
+* [Código de país](/country-code-en.md)
 * Permisos 
 * Etc
 
