@@ -1,19 +1,19 @@
-# Bienvenido a la documentación de SISLAC
+# Welcome to SISLAC docs
 
-The documentation is available in [español](/README.md), [ingles](/README-en.md) y [portugues](/README-pt.md).
+This documentation is available in [spanish](/README.md), [english](/README-en.md) and [portuguese](/README-pt.md).
 
-## Contenido
+## Content
 
-### Usuarios
+### User
 
-* Como crear un usuario
-* Como autorizar tu usuario para la carga de nuevos datos
+* Creating a new user
+* Getting authorization to upload soil information
 
-### Información de suelos
+### Soil information
 
-* [Carga de datos](/uploading-soildata-es.md)
-* Descarga
+* [Uploading data](/uploading-soildata-en.md)
+* Downloading data
 
-### Corriendo análisis de pedometría en SISLAC
+### Running pedometric analisys inside sislac
 
-* Graficar información de suelos
+* plot soil information
