@@ -6,8 +6,8 @@ The documentation is available in [español](/README.md), [ingles](/README-en.md
 
 ### Usuarios
 
-* Como crear un usuario
-* Como autorizar tu usuario para la carga de nuevos datos
+* [Como crear un usuario](/sign-up-es.md)
+* [Como autorizar tu usuario para la carga de nuevos datos](user-auth-es.md)
 
 ### Información de suelos
 
