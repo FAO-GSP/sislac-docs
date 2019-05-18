@@ -1,5 +1,13 @@
 Solo los usuarios autorizados pueden subir nuevos datos de suelos. Puede ver mas detalles [aquí](/user-auth-es.md)
 
+# Video tutorial
+
+Puedes ver un video sobre el proceso de carga en 3 pasos.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UCyRhIGDUKdIOw07Pd8pHxCw
+" target="_blank"><img src="intro.svg" 
+alt="Importar datos en 3 pasos" width="240" height="180" border="10" /></a>
+
 # Subiendo información a SISLAC
 
 ## Plantilla para la carga de datos
