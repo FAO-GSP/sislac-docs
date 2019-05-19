@@ -1,6 +1,6 @@
 # Bienvenido a la documentación de SISLAC
 
-The documentation is available in [español](/sislac-docs/README.html), [english](/sislac-docs/en/README.html) y [portugues](/sislac-docs/pt/README.html).
+The documentation is available in [español](/sislac-docs/es/index.html), [english](/sislac-docs/en/index.html) y [portugues](/sislac-docs/pt/index.html).
 
 ## Contenido
 
