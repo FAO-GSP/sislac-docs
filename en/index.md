@@ -11,7 +11,7 @@ This documentation is available in [spanish](/sislac-docs/es/index.html), [engli
 
 ### Soil information
 
-* [Uploading data](/sislac-docs/en/uploading-soildata.md)
+* [Uploading data](/sislac-docs/en/uploading-soildata.html)
 * Downloading data
 
 ### Running pedometric analisys inside sislac

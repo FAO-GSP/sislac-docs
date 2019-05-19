@@ -18,9 +18,7 @@ Ademas de los datos que van en la plantilla deberá proveer información adicion
 
 Puedes ver un video sobre el proceso de carga en 3 pasos.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jejRqTOPqpA
-" target="_blank"><img src="/sislac-docs/es/video.png" 
-alt="Importar datos en 3 pasos" width="240" height="180" border="10" /></a>
+[![Video en 3 pasos](/sislac-docs/es/import.gif)](https://www.youtube.com/watch?v=jejRqTOPqpA)
 
 ## Plantilla para la carga de datos
 
