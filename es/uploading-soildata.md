@@ -1,14 +1,26 @@
 Solo los usuarios autorizados pueden subir nuevos datos de suelos. Puede ver mas detalles [aquí](/sislac-docs/es/user-auth.html)
 
-# Video tutorial
+# Subir datos de suelos a SISLAC
+
+El proceso de subir datos de suelo a SISLAC consiste en 3 pasos:
+
+1. Descargar la plantilla con los datos
+
+SISLAC utiliza una plantilla para la carga de datos. Esta plantilla contiene los columnas donde debe copiar la información de suelos.
+
+2. Editar la plantilla
+
+Luego de descargar la plantilla debe editarla en un software de hojas de calculo (como por ejemplo LibreOffice, MS Excel).
+
+3. Subir la plantilla a SISLAC
+
+Ademas de los datos que van en la plantilla deberá proveer información adicional sobre los datos de suelos.
 
 Puedes ver un video sobre el proceso de carga en 3 pasos.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=3Wf29RiKp70
-" target="_blank"><img src="intro.svg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jejRqTOPqpA
+" target="_blank"><img src="/sislac-docs/es/video.png" 
 alt="Importar datos en 3 pasos" width="240" height="180" border="10" /></a>
-
-# Subiendo información a SISLAC
 
 ## Plantilla para la carga de datos
 
@@ -31,7 +43,7 @@ Las opciones validas son: perfil de suelo, para datos de calicatas o auger para 
 
 ### Metadatos
 
-Además debemos completar información relativa a los metadatos de los datos, como por ejemplo métodos de laboratorio. La lista de las variables y su explicación puede leerse [aquí](/sislac-docs/es/metadata.html).
+Además debemos completar información relativa a los metadatos de los datos, como por ejemplo los métodos de laboratorio. La lista de las variables y su explicación puede leerse [aquí](/sislac-docs/es/metadata.html).
 
 
 
