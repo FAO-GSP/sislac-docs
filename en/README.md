@@ -1,6 +1,6 @@
 # Welcome to SISLAC docs
 
-This documentation is available in [spanish](/README.md), [english](/README-en.md) and [portuguese](/README-pt.md).
+This documentation is available in [spanish](/sislac-docs/README.html), [english](/sislac-docs/en/README.md) and [portuguese](/sislac-docs/pt/README.md).
 
 ## Content
 
@@ -11,7 +11,7 @@ This documentation is available in [spanish](/README.md), [english](/README-en.m
 
 ### Soil information
 
-* [Uploading data](/uploading-soildata-en.md)
+* [Uploading data](/sislac-docs/en/uploading-soildata.md)
 * Downloading data
 
 ### Running pedometric analisys inside sislac

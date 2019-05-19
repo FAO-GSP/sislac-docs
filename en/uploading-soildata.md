@@ -1,6 +1,6 @@
 # Who can load new soil information?
 
-Only authorized users can upload new soil data. If you want to upload data you must contact your country's pillar 4 representative to request access. You can see more details [here](/user-auth-en.md)
+Only authorized users can upload new soil data. If you want to upload data you must contact your country's pillar 4 representative to request access. You can see more details [here](/sislac-docs/en/user-auth.html)
 
 # Uploading information to SISLAC
 

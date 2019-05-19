@@ -1,4 +1,4 @@
-Solo los usuarios autorizados pueden subir nuevos datos de suelos. Puede ver mas detalles [aquí](/es/user-auth.md)
+Solo los usuarios autorizados pueden subir nuevos datos de suelos. Puede ver mas detalles [aquí](/sislac-docs/es/user-auth.html)
 
 # Video tutorial
 
@@ -14,7 +14,7 @@ alt="Importar datos en 3 pasos" width="240" height="180" border="10" /></a>
 
 Para la carga de perfiles/muestreos de suelos debe preparar los datos en un tabla donde cada fila corresponde a un horizonte/capa y cada columna a un atributo. SISLAC provee una plantilla donde Ud. puede copiar sus datos. 
 
-Una explicación de los campos a llenar en la plantilla se encuentra [aquí](/es/template.md).
+Una explicación de los campos a llenar en la plantilla se encuentra [aquí](/sislac-docs/es/template.html).
 
 ## Información adicional sobre los perfiles
 
@@ -24,14 +24,14 @@ Al momento de la carga, además, deberá proveer información adicional relativa
 
 Las opciones validas son: perfil de suelo, para datos de calicatas o auger para barrenadas 
 
-* [Código de país](/en/country-code.md)
+* [Código de país](/sislac-docs/en/country-code.html)
 * Fuente u origen de los datos
 * Email de contacto de los datos
-* [Licencia](/es/licenses.md)
+* [Licencia](/sislac-docs/es/licenses.html)
 
 ### Metadatos
 
-Además debemos completar información relativa a los metadatos de los datos, como por ejemplo métodos de laboratorio. La lista de las variables y su explicación puede leerse [aquí](/es/metadata.md).
+Además debemos completar información relativa a los metadatos de los datos, como por ejemplo métodos de laboratorio. La lista de las variables y su explicación puede leerse [aquí](/sislac-docs/es/metadata.html).
 
 
 
